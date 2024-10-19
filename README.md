@@ -33,4 +33,4 @@ Tmall:   python Main.py --data tmall  --M 800 --R 6 --no_cal_mtx_flag
 
 
 ## Datasets
-/data/dataset.txt
+/IntGCL/data/dataset.txt
